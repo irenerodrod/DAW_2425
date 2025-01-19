@@ -14,4 +14,4 @@ Temario, apuntes y ejercicios del módulo de **Desarrollo de Aplicaciones Web (D
 * Itineario personal para la empleabilidad I (IPE)
 
 ## Fecha de actualización.
-18 de enero de 2025# DAW_2425
+18 de enero de 2025
